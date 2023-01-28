@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7f62f7e3-4147-4d48-91d0-632727c1dbd0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/99-2.인사고과.py" beforeDir="false" afterPath="$PROJECT_DIR$/99-2.인사고과.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/coding_study/coding_study",
+    "last_opened_file_path": "/Users/jeongwoo/Desktop/coding_study",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
