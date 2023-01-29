@@ -1,4 +1,6 @@
 def solution(e, starts):
+    # 시간초과;;;
+    # 힙을 써야하나
     ans = []
     tmp = []
     for i in range(len(starts)):
