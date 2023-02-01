@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f62f7e3-4147-4d48-91d0-632727c1dbd0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/6-5.바둑이승차(DFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/6-5.바둑이승차(DFS).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
